@@ -1,0 +1,4 @@
+Hi, there!
+I am trying to strength my git skills :)
+Bye bye!
+
