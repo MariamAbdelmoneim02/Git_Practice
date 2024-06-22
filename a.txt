@@ -2,3 +2,8 @@ Hi, there!
 I am trying to strength my git skills :)
 Bye bye!
 
+Hi again! :)
+I have changed the file to make the file state --> (modified)
+Ciao
+
+
